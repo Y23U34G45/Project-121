@@ -1,0 +1,63 @@
+p{
+    color: red;
+    letter-spacing: 2px;
+
+}
+.mobilenet{
+    letter-spacing: 2px;
+
+}
+.google_lens{
+    letter-spacing: 2px;
+}
+
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 260px;
+     border-radius: 10px;
+}
+
+span{
+    letter-spacing: 2px;
+}
+b{
+    color: purple;
+}
+
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2px;
+}
+
+.test_image_and_result{
+    margin-top: 15px;
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 35px grey;
+    width: 99%;
+    margin-bottom: 15px;
+    
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+    color: red;
+}
+
+h5{
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.high{
+    font-weight: bold;
+    font-size: 15px;
+    width: 60%;
+}
